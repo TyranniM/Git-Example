@@ -6,6 +6,7 @@ class App extends Component {
   render() {
     return (
       <h1>thi is the dev branch</h1>
+      <h2>Bug fix</h2>
     );
   }
 }
